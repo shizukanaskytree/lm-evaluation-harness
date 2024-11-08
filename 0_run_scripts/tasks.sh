@@ -1,0 +1,1 @@
+lm-eval --tasks list
